@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::view('/', 'page.home');
+Route::view('/about', 'page.about');
